@@ -6,3 +6,5 @@ obj
 
 
 req
+
+add floe chart
